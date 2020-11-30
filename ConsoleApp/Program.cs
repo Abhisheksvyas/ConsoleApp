@@ -2,11 +2,12 @@
 
 namespace ConsoleApp
 {
-    public class Program
+    class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! from me" );
+           //Abhi
+            Console.WriteLine("Hello World!");
         }
     }
 }
